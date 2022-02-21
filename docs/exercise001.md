@@ -13,7 +13,7 @@ If the promise fails, log out `Boo. Promise rejected with response: `. Use strin
 
 If your code works you should get a console messages that says `Yay! Promise resolved with response: done` when the promise is successful and `Boo. Promise rejected with response: error` when the promise fails.
 
-Remember to commit your code to Git when you've got it working! 😊 🙌
+Commit and push your code to GitHub when you've got it working! 😊 🙌
 
 ## Task 2 - Convert your .then().catch() into Async & Await 💅
 
@@ -24,3 +24,5 @@ This is ok for something short and sweet, but if we have to call multiple promis
 Task 2 is to convert your `.then()` and `.catch()` promise calls into a more sexy and modern Async / Await function. Use try / catch to log out success or error strings.
 
 Have a go, if you get stuck [ see solutions ?]
+
+Commit and push your code to GitHub when you've got it working! 😊 🙌

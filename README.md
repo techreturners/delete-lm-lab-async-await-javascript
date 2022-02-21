@@ -1,6 +1,6 @@
 # Learner Materials: Async and Await
 
-In this repository you will find a few short exercises on async/await try/catch.
+In this repository you will some exercises on async/await and try/catch.
 
 ## Instructions
 
