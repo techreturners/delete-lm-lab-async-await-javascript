@@ -14,7 +14,3 @@ const promise = new Promise((resolve, reject) => {
 });
 
 // Your solution(s) to exercise001 here! 
-
-
-
-
