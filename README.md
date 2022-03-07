@@ -1,6 +1,6 @@
 # Learner Materials: Async and Await
 
-In this repository you will some exercises on async/await and try/catch.
+In this repository you will find exercises on async/await and try/catch.
 
 ## Instructions
 
@@ -16,8 +16,8 @@ To install the dependencies run:
 
 To run the files:
 
-        node exercise001.mjs
+        node exercise001.js
 
 or
 
-        node exercise002.mjs
+        node exercise002.js
