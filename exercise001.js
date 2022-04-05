@@ -1,6 +1,6 @@
 const promise = new Promise((resolve, reject) => {
   // Generate random number between 0 and 9
-  const randomInt: number = Math.floor(Math.random() * 10);
+  const randomInt = Math.floor(Math.random() * 10);
 
   if (randomInt % 2 === 0) {
     // Success

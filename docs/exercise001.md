@@ -21,7 +21,7 @@ Great, so you're chaining `.then()` and `.catch()` onto your promise function to
 
 This is ok for something short and sweet, but if we have to call multiple promises this can result in something called "Promise-Callback Hell" - deeply nested Promises.
 
-Task 2 is to convert your `.then()` and `.catch()` promise calls into a more sexy and modern Async / Await function. Update your `.then()` and `.catch()` to instead use `try {}` / `catch{}` to log out success or error strings.
+Task 2 is to convert your `.then()` and `.catch()` promise calls into a more sexy and modern Async / Await function. Update your `.then()` and `.catch()` to instead use `try{}` / `catch{}` to log out success or error strings.
 
 Don't forget to add the `async` and `await` keywords to wait for your promise to resolve!
 

@@ -12,13 +12,11 @@ To install the dependencies run:
 
 To run the files:
 
-        node exercise001.ts
+        node exercise001.js
 
 or
 
-        node exercise002.ts
-
-
+        node exercise002.js
 
 ## Instructions
 

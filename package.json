@@ -1,7 +1,4 @@
 {
-  "dependencies": {
-    "node-fetch": "^3.2.0"
-  },
   "name": "lm-lab-async-await-javascript",
   "description": "In this repository you will some exercises on async/await and try/catch.",
   "version": "1.0.0",
@@ -9,12 +6,6 @@
   "type": "module",
   "directories": {
     "doc": "docs"
-  },
-  "devDependencies": {
-    "@types/node": "^17.0.23",
-    "nodemon": "^2.0.15",
-    "ts-node": "^10.7.0",
-    "typescript": "^4.6.3"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
