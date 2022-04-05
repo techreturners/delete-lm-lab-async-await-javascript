@@ -12,13 +12,14 @@ To install the dependencies run:
 
 To run the files:
 
-        node exercise001.js
+        node exercise001.ts
 
 or
 
-        node exercise002.js
-        
-        
+        node exercise002.ts
+
+
+
 ## Instructions
 
 Please read the accompanying [docs](./docs/) files before making a start on these exercises
